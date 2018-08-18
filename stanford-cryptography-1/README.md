@@ -1,4 +1,4 @@
-# Cryptography I, SU - Programming Assignments
+# Cryptography I, Stanford - Programming Assignments
 
 My solutions to the weekly programming assignments of the [Cryptography I](https://www.coursera.org/learn/crypto/) course from [Standford University](https://www.stanford.edu/) on Coursera.
 
@@ -7,3 +7,4 @@ My solutions to the weekly programming assignments of the [Cryptography I](https
 - __Week 3__: implement a (video) streaming [hash function](https://en.wikipedia.org/wiki/Cryptographic_hash_function) — _[problem](https://www.coursera.org/learn/crypto/quiz/EJ69R/week-3-programming-assignment-optional), [solution](week3-video-online-hashing.py)_
 - __Week 4__: implement a [padding oracle attack](https://en.wikipedia.org/wiki/Padding_oracle_attack) on CBC MoO — _[problem](https://www.coursera.org/learn/crypto/quiz/5zRcK/week-4-programming-project-optional), [solution](week4-cbc-padding-oracle-attack.py)_
 - __Week 5__: implement a [meet in the middle attack](https://en.wikipedia.org/wiki/Meet-in-the-middle_attack) to compute a [discrete logarithm](https://en.wikipedia.org/wiki/Discrete_logarithm) modulo a prime — _[problem](https://www.coursera.org/learn/crypto/quiz/7Cjo5/week-5-programming-assignment-optional), [solution](week5-dlog-mitm-attack.py)_
+- __Week 6__: decrypt a [PKCS#1 v1.5](https://en.wikipedia.org/wiki/PKCS_1) ciphertext by [factoring weak RSA modulus](https://en.wikipedia.org/wiki/RSA_Factoring_Challenge) — _[problem](https://www.coursera.org/learn/crypto/quiz/cZHEY/week-6-programming-assignment-optional), [solution](week6-rsa-dependant-primes-attack.py)_
